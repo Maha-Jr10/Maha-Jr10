@@ -8,15 +8,13 @@
 
 - 🌱 I’m currently learning **Machine Learning and Generative AI**
 
-- 👯 I’m looking to collaborate on **PROJECTS in: Data Science, Data Analysis and Frontend**
+- 👯 I’m looking to collaborate on **PROJECTS in: Data Science, AI, Data Analysis and Frontend**
 
 - 🤝 I’m looking for help with **Internship to Build my Experience in the Field of Data Science and AI**
 
-- 💬 Ask me about **R, SQL, JavaScript, Python, C, C++**
+- 💬 Ask me about **Data Analysis, Machine Learning, SQL, Python, Java, C, C++, JavaScript**
 
 - 📫 How to reach me **muhammedjohn3@gmail.com**
-
-- 📄 Know about my experiences [https://www.canva.com/design/DAGVJ8y9_OE/c5p-pYTw9t4fJ1KHzOD_EQ/edit?utm_content=DAGVJ8y9_OE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGVJ8y9_OE/c5p-pYTw9t4fJ1KHzOD_EQ/edit?utm_content=DAGVJ8y9_OE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact **I am fun.**
 
