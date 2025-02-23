@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Data Analysis, Pandas, Numpy and Matplotlib**
+- 🌱 I’m currently learning **Machine Learning and Generative AI**
 
 - 👯 I’m looking to collaborate on **PROJECTS in: Data Science, Data Analysis and Frontend**
 
