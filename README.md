@@ -1,70 +1,152 @@
-```markdown
-<h1 align="center">Hi 👋, I’m Muhammed John</h1>
-<h3 align="center">MS Student in Data Science &amp; AI Engineering at ENSAF (2022–Present) | Junior Data Scientist building ML solutions &amp; interactive data apps</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maha-jr10&label=Profile%20views&color=0e75b6&style=flat" alt="maha-jr10" /> </p>
-
-<p align="left">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-  <a href="https://www.linkedin.com/in/Maha-Jr" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammed%20John-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/maha-jr10" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-maha--jr10-black?logo=github&style=for-the-badge" alt="GitHub" />
-  </a>
+<!-- HERO SECTION -->
+<h1 align="center">👋 Hi, I’m <span style="color:#4CAF50;">Muhammed John</span></h1>
+<p align="center">
+  <em>MS Student in Data Science &amp; AI Engineering @ ENSAF</em><br/>
+  <strong>Junior Data Scientist crafting ML solutions &amp; interactive data apps</strong>
 </p>
 
-- 🌱 I’m currently learning **Generative AI & Advanced ML techniques**  
-- 👯 I’m looking to collaborate on **Data Science, AI Engineering & Frontend projects**  
-- 🤝 I’m seeking **Data Science/AI internships** to deepen real‑world experience  
-- 💬 Ask me about **Python, TensorFlow, scikit‑learn, SQL, Flask, Streamlit, JavaScript**  
-- 📫 How to reach me: **muhammedjohn3@gmail.com**  
-- ⚡ Fun fact: **I built a GUI app for student record management in Java!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/Maha-Jr" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/__maha_jr__" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+<!-- SOCIAL BADGES -->
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/Muhammedjohn3"><img src="https://img.shields.io/badge/HackerRank-Muhammedjohn3-2EC866?logo=hackerrank&style=for-the-badge" alt="HackerRank"></a>
+  <a href="https://www.linkedin.com/in/Maha-Jr"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://www.kaggle.com/muhammedjohn"><img src="https://img.shields.io/badge/Kaggle-%23020BEF.svg?logo=kaggle&style=for-the-badge" alt="Kaggle"></a>
+  <a href="mailto:muhammedjohn3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&style=for-the-badge" alt="Email"></a>
 </p>
 
-<h3 align="left">🚀 Projects &amp; Highlights:</h3>
-- **House Price Estimation**: Engineered features from 10K+ listings; trained regression models (R²≈0.88) & deployed via Flask + React.  
-- **Customer Churn Prediction**: Built TensorFlow neural network; balanced data with SMOTE & risk‑thresholding; shipped Streamlit app.  
-- **Marketing Spend Optimization**: Regression analysis (R²≈0.99) to allocate TV/Radio/Newspaper budgets; delivered Jupyter insights.  
-- **UK Road Accident Dashboard**: Cleaned & visualized 300K+ records; Excel + Plotly dashboards for safety decision‑making.  
+---
 
-<h3 align="left">🛠️ Languages &amp; Tools:</h3>
-<p align="left">
+## 🚀 About Me
+- 🎓 **MS in Data Science &amp; AI Engineering**, ENSAF (2022–Present)  
+- 💼 Building data‑driven solutions: from feature engineering to web deployment  
+- 🌱 Currently diving into **Deep Learning** and **Backend Development**  
+- 🤝 Seeking an **AI/Data Science internship** to level up my real‑world experience  
+
+---
+
+## 🛠️ Technical Skills &amp; Tools
+
+<p align="center">
   <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
-
-  <!-- ML & Data -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xgboost/xgboost-original.svg" alt="XGBoost" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-
-  <!-- Web & Deployment -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40" title="R"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" title="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/>
+  &nbsp;&nbsp;
+  <!-- ML & AI -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40" title="scikit-learn"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" title="TensorFlow/Keras"/>
+  &nbsp;&nbsp;
+  <!-- Data Processing -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" title="pandas"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" title="NumPy"/>
+  &nbsp;&nbsp;
+  <!-- Visualization -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40" title="Matplotlib"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" width="40" height="40" title="Seaborn"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="40" height="40" title="Plotly"/>
+  <img src="https://cdn.simpleicons.org/microsoftexcel" title="Excel Dashboards" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <!-- Deployment & Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="40" height="40" title="Streamlit"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40" title="Flask"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" title="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" title="Git/GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" title="SQLite"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40" title="SQLAlchemy"/>
+  &nbsp;&nbsp;
+  <!-- Environments -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" title="Jupyter Notebook"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL Workbench"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maha-jr10&show_icons=true&layout=compact&theme=blue" alt="Top languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=maha-jr10&show_icons=true&theme=blue" alt="GitHub stats" />
+---
+
+## 🌟 TOP Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <h4>🏠 House Price Estimator</h4>
+      <ul align="left">
+        <li>10 000+ listings, R²≈0.88</li>
+        <li>Flask deployment</li>
+      </ul>
+      <a href="https://github.com/Maha-Jr10/House-price-prediction-project">View Repo</a>
+    </td>
+    <td align="center" width="200">
+      <h4>📈 Ad Spend Optimizer</h4>
+      <ul align="left">
+        <li>R²≈0.99 regression</li>
+        <li>GridSearchCV</li>
+      </ul>
+      <a href="https://github.com/Maha-Jr10/Sales-Prediction">View Repo</a>
+    </td>
+    <td align="center" width="200">
+      <h4>🔮 Churn Prediction App</h4>
+      <ul align="left">
+        <li>TensorFlow NN</li>
+        <li>Streamlit UI</li>
+      </ul>
+      <a href="https://github.com/Maha-Jr10/Customer-Churn-Prediction-with-ANN">View Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <h4>🛣️ UK Accident Dashboard</h4>
+      <ul align="left">
+        <li>300 000+ records</li>
+        <li>Excel</li>
+      </ul>
+      <a href="https://onedrive.live.com/personal/9e426d7bd2b44799/_layouts/15/Doc.aspx?sourcedoc=%7B546629a9-7885-4efd-8d1d-79d9a8954e48%7D&action=default&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy85ZTQyNmQ3YmQyYjQ0Nzk5L0Vha3BabFNGZVAxT2pSMTUyYWlWVGtnQmpLTjg3cmFSRk1mOFI0TnVaNm9fSEE_ZT1heVJJZ0Y&slrid=5657a8a1-2008-d000-11f8-b1ed64cfe6ef&originalPath=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy85ZTQyNmQ3YmQyYjQ0Nzk5L0Vha3BabFNGZVAxT2pSMTUyYWlWVGtnQmpLTjg3cmFSRk1mOFI0TnVaNm9fSEE_cnRpbWU9b1kyV09mMnIzVWc&CID=7138f858-6785-4fdf-94e5-8f60ff3e30a4&_SRM=0:G:50">View Repo</a>
+    </td>
+    <td align="center" width="200">
+      <h4>🎓 Student Mgmt System</h4>
+      <ul align="left">
+        <li>Java + MySQL CRUD</li>
+      </ul>
+      <a href="https://www.linkedin.com/posts/maha-jr_java-studentmanagementsystem-jdbc-activity-7319017148058660864-1TDO/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERpPhMBaVEVTDt4J0NVkUX16cVKdD8H6sA">View Demo</a>
+    </td>
+    <td align="center" width="200">
+      <h4>🌐 Portfolio Site</h4>
+      <ul align="left">
+        <li>HTML/CSS/JS</li>
+        <li>GitHub Pages</li>
+      </ul>
+      <a href="https://maha-jr10.github.io/Johns-website">View Site</a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🏅 Certifications &amp; Leadership
+
+| Certification                                | Platform     | 
+|----------------------------------------------|--------------|
+| Generative AI & Data Literacy                | DataCamp     | 
+| Machine Learning & Feature Engineering       | Kaggle       | 
+| Responsive Web Design & JS Algorithms        | freeCodeCamp | 
+| SQL & Database Design                        | Oracle/HackerRank   |
+
+- 🔹 **Secretary General**, GASAM (2024–Present)  
+  &nbsp;&nbsp;Co‑lead 100+ students, manage events, comms & website  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maha-jr10&show_icons=true&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maha-jr10&show_icons=true&theme=radical" alt="Stats"/>
 </p>
-```
