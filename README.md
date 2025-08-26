@@ -18,7 +18,7 @@
 ## 🚀 About Me
 - 🎓 **MS in Data Science &amp; AI Engineering**, ENSAF (2022–Present)  
 - 💼 Building data‑driven solutions: from feature engineering to web deployment  
-- 🌱 Currently diving into **Deep Learning** and **Backend Development**  
+- 🌱 Currently diving into **AI** and **full-stack Development**  
 - 🤝 Seeking an **AI/Data Science internship** to level up my real‑world experience  
 
 ---
