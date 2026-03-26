@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m <span style="color:#4CAF50;">Muhammed John</span></h1>
 <p align="center">
   <em>MSc Student in Data Science & AI Engineering @ ENSAF</em><br/>
-  <strong>AI\ML Engineer | Data Scientist | Full-Stack Developer | MLOps Practitioner</strong>
+  <strong>AI/ML Engineer | Data Scientist | Full-Stack Developer | MLOps Practitioner</strong>
 </p>
 
 <p align="center">
