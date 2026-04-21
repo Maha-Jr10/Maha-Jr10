@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m <span style="color:#4CAF50;">Muhammed John</span></h1>
 <p align="center">
   <em>MSc Student in Data Science & AI Engineering @ ENSAF</em><br/>
-  <strong>AI/ML Engineer | Data Scientist | Full-Stack Developer | MLOps Practitioner</strong>
+  <strong>AI/ML Engineer | Data Scientist | Data Engineer | Full-Stack Developer | MLOps Practitioner</strong>
 </p>
 
 <p align="center">
@@ -17,9 +17,9 @@
 ## 🚀 About Me
 - 🎓 **MSc Student in Data Science & AI Engineering** at ENSAF (2025-Present)
 - 🌟 Specialized in **AI/ML Engineering, Data Science, Data Engineering, Full-Stack Development, and MLOps**
-- 🏗️ Building **end-to-end production systems** from machine learning models to scalable deployments
-- 🔄 **Continuously learning** and adapting to new technologies
-- 🤝 **Exploring opportunities** in AI Engineering, Data Science, and Full-Stack Development roles
+- 🏗️ Building **end-to-end production systems** from machine learning models to scalable data pipelines
+- 🔄 **Continuously learning** and adapting to new technologies (Databricks, Delta Lake, Kubernetes, LLMs)
+- 🤝 **Exploring opportunities** in AI Engineering, Data Engineering, Data Science, and Full-Stack Development roles
 
 ---
 
@@ -38,7 +38,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Apache-Airflow-red?style=flat" height="40" title="Apache Airflow"/>
   <img src="https://img.shields.io/badge/Apache-Spark-orange?style=flat" height="40" title="Apache Spark"/>
-  <img src="https://img.shields.io/badge/Apache-Kafka-purple?style=flat" height="40" title="Apache Kafka"/>
+  <img src="https://img.shields.io/badge/Databricks-ff3621?style=flat&logo=databricks" height="40" title="Databricks"/>
+  <img src="https://img.shields.io/badge/Delta_Lake-0A5B82?style=flat" height="40" title="Delta Lake"/>
   <img src="https://img.shields.io/badge/Pandas_&_NumPy-blue?style=flat" height="40" title="Data Processing"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>
 </p>
@@ -56,37 +57,59 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&style=flat" height="40" title="Kubernetes"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&style=flat" height="40" title="MLflow"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&style=flat" height="40" title="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&style=flat" height="40" title="Prometheus"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" title="Git"/>
 </p>
 
 ---
 
+## ⭐ Top Projects (Feature Highlights)
+
+| Category | Project | Tech Stack | Key Metrics |
+|----------|---------|------------|-------------|
+| **Data Engineering** | [Azure Databricks Lakehouse Pipeline](https://github.com/Maha-Jr10/databricks-medallion-lakehouse) | Databricks, PySpark, Delta Lake, DLT | Medallion (3 layers), Snowflake Schema |
+| **Data Engineering** | [SNCF Railway Analytics](https://github.com/Maha-Jr10/sncf-railway-analytics) | Databricks, PySpark, Power BI, Star Schema | 10M+ reservations, 3m 39s pipeline, 6 dashboards |
+| **MLOps** | [MLflow Remote Tracking Server on AWS](http://ec2-16-16-201-85.eu-north-1.compute.amazonaws.com:5000) | AWS EC2, RDS, S3, PostgreSQL, Gunicorn | Live & Operational, team collaboration |
+| **Full-Stack + AI** | [TalentIA Platform](https://github.com/XAI-Tech/X-Talent) | Next.js 15, React 19, FastAPI, Ollama, Supabase | Role-based AI matching system |
+| **Medical AI** | [PneumoScanAI](https://github.com/Maha-Jr10/pneumonia-detection-website) | Flask, TensorFlow, ResNet50, Grad-CAM | Role-based users, appointments |
+| **Computer Vision** | [Potato Leaf Guardian](https://github.com/Maha-Jr10/potato-leaf-guardian) | TensorFlow, CNN, React, Docker | 92% accuracy, containerized |
+| **Kubernetes** | [MongoDB + Express K8s Stack](https://github.com/Maha-Jr10/kubernetes-mongo-express-stack) | Kubernetes, Docker, MongoDB, YAML | Production-ready deployment |
+| **Data Analytics** | [Road Accident Dashboard](https://github.com/Maha-Jr10/road-accident-dashboard) | Excel, KPIs, Data Analysis | 307K+ records, interactive |
+| **RAG/LLM** | [AI Portfolio RAG System](https://github.com/Maha-Jr10/portfolio-rag) | Llama3.2, RAG, Embeddings, Docker | Local LLM deployment |
+
+---
+
 ## 🌟 Featured High-Impact Projects
 
+### 🚆 Data Engineering & Business Intelligence
+- **SNCF Railway Analytics — Data Warehouse & BI:** End-to-end data pipeline processing 10M+ railway reservations (2021-2025). Implements Medallion Architecture (Bronze→Silver→Gold) on Databricks with PySpark, star schema modeling, and 6 interactive Power BI dashboards for revenue analysis, demand forecasting, and station performance.
+- **Azure Databricks End-to-End Lakehouse Pipeline:** Production-grade pipeline with streaming ingestion via Auto Loader, Delta Live Tables, SCD Type 1 & 2 dimensional modeling, and fully automated Workflow orchestration.
+- **Northwind Data Warehouse - Talend ETL:** Star schema + SCD Type 2 using Talend Open Studio for enterprise data warehousing.
+
 ### 🏥 Medical & Agri-Tech (Computer Vision)
-- **Pneumonia Detection System (PneumoScanAI):** ResNet50 + Grad-CAM with role-based user system (patients/doctors/admins) for clinical X-ray analysis
-- **Potato Leaf Guardian:** CNN model (92% accuracy) with React interface and Docker deployment for potato disease detection
+- **Pneumonia Detection System (PneumoScanAI):** ResNet50 + Grad-CAM with role-based user system (patients/doctors/admins) for clinical X-ray analysis.
+- **Potato Leaf Guardian:** CNN model (92% accuracy) with React interface and Docker deployment for potato disease detection.
 
 ### 🤖 Generative AI & Advanced ML
-- **Portfolio RAG System:** Local RAG using Llama3.2 with semantic search capabilities
-- **TalentIA AI Platform:** Next.js 15 + FastAPI talent matching with local Ollama LLM integration
-- **Custom KNN From Scratch:** Interactive Streamlit app demonstrating algorithm fundamentals
+- **Portfolio RAG System:** Local RAG using Llama3.2 with semantic search capabilities.
+- **TalentIA AI Platform:** Next.js 15 + FastAPI talent matching with local Ollama LLM integration.
+- **Artisanat Explorer:** Moroccan artisanal heritage platform with Flask, Chart.js, and RAG chatbot.
+- **Custom KNN From Scratch:** Interactive Streamlit app demonstrating algorithm fundamentals.
 
-### 📊 Predictive Analytics & Data Engineering
-- **Sales Prediction Engine:** Automated multi-model regression pipeline with hyperparameter tuning
-- **UK Road Safety Dashboard:** Excel dashboard processing 307K+ collision records with interactive analytics
-- **Customer Churn Prediction:** ANN model with 85% recall deployed via Streamlit
+### 📊 Predictive Analytics & Data Science
+- **Sales Prediction Engine:** Automated multi-model regression pipeline with hyperparameter tuning.
+- **UK Road Safety Dashboard:** Excel dashboard processing 307K+ collision records with interactive analytics.
+- **Customer Churn Prediction:** ANN model with 85% recall deployed via Streamlit.
+- **Bangalore Housing Price Estimator:** XGBoost regression model achieving R²=0.88 with Flask API deployment.
 
-### 🗄️ Infrastructure & DevOps
-- **MongoDB & Mongo Express - Kubernetes Deployment:** Production-ready K8s deployment with persistent storage and secure configuration
-- **Multi-Service Architectures:** Containerized applications with Docker, Kubernetes, and CI/CD pipelines
+### 🗄️ Infrastructure & MLOps
+- **MLflow Remote Tracking Server on AWS:** Production-ready MLflow tracking server (EC2+RDS+S3) for team collaboration.
+- **MongoDB & Mongo Express - Kubernetes Deployment:** Production-ready K8s deployment with persistent storage and secure configuration.
 
 ### 🌐 Full-Stack Web Development
-- **GASAM Official Website:** React + TypeScript platform for Gambian Students' Association in Morocco
-- **Artisanat Explorer:** Moroccan artisanal heritage platform with Flask, Chart.js, and RAG chatbot
-- **Multiple Production Applications:** Role-based systems with authentication, analytics, and admin dashboards
+- **GASAM Official Website:** React + TypeScript platform for Gambian Students' Association in Morocco.
+- **Multiple Production Applications:** Role-based systems with authentication, analytics, and admin dashboards.
 
 ---
 
@@ -103,7 +126,7 @@
 - Developed interactive analytics dashboard with Chart.js and clickable filtering
 
 ### 🎓 Independent AI/ML Projects (2023 - Present)
-- Developed 10+ production-grade projects across AI, Data Engineering, and Full-Stack domains
+- Developed 15+ production-grade projects across AI, Data Engineering, and Full-Stack domains
 - Built systems from CNN models to Kubernetes deployments with end-to-end pipelines
 - Created educational content and technical guides for community learning
 
@@ -117,7 +140,7 @@
 
 ### 🏆 Certifications (22+)
 - **AI & Machine Learning:** TensorFlow, Deep Learning, Computer Vision, Generative AI
-- **Data Engineering:** Apache Kafka, Data Cleaning, Feature Engineering, Pandas
+- **Data Engineering:** Apache Kafka, Data Cleaning, Feature Engineering, Pandas, Databricks
 - **Programming:** Python, SQL, JavaScript, Problem Solving
 - **Web Development:** React, TypeScript, Responsive Web Design
 
@@ -149,5 +172,5 @@
 </p>
 
 <p align="center">
-  <i>Bridging AI, Data, and Full-Stack Development to build production-ready solutions</i>
+  <i>Bridging AI, Data Engineering, and Full-Stack Development to build production-ready solutions</i>
 </p>
