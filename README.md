@@ -10,16 +10,17 @@
   <a href="https://www.kaggle.com/muhammedjohn"><img src="https://img.shields.io/badge/Kaggle-%23020BEF.svg?logo=kaggle&style=for-the-badge" alt="Kaggle"></a>
   <a href="https://github.com/Maha-Jr10"><img src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&style=for-the-badge" alt="GitHub"></a>
   <a href="mailto:muhammedjohn3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&style=for-the-badge" alt="Email"></a>
+  <a href="https://muhammed-john.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?logo=netlify&style=for-the-badge" alt="Portfolio"></a>
 </p>
 
 ---
 
 ## 🚀 About Me
 - 🎓 **MSc Student in Data Science & AI Engineering** at ENSAF (2025-Present)
-- 🌟 Specialized in **AI/ML Engineering, Data Science, Data Engineering, Full-Stack Development, and MLOps**
-- 🏗️ Building **end-to-end production systems** from machine learning models to scalable data pipelines
-- 🔄 **Continuously learning** and adapting to new technologies (Databricks, Delta Lake, Kubernetes, LLMs)
-- 🤝 **Exploring opportunities** in AI Engineering, Data Engineering, Data Science, and Full-Stack Development roles
+- 🏗️ Build **end-to-end production systems** – from Lakehouse pipelines (Databricks, Kafka) to LLM‑powered apps and MLOps on AWS
+- 🔄 **Continuously learning** – recently: Databricks Workflows, Delta Live Tables, Spark Structured Streaming, Kubernetes
+- 🤝 **Open to roles** in Data Engineering, ML Engineering, AI Engineering, Data Science, and Full‑Stack AI
+- 🌍 Based in Fes, Morocco – available for remote, hybrid, or on‑site in Europe/Morocco
 
 ---
 
@@ -40,7 +41,7 @@
   <img src="https://img.shields.io/badge/Apache-Spark-orange?style=flat" height="40" title="Apache Spark"/>
   <img src="https://img.shields.io/badge/Databricks-ff3621?style=flat&logo=databricks" height="40" title="Databricks"/>
   <img src="https://img.shields.io/badge/Delta_Lake-0A5B82?style=flat" height="40" title="Delta Lake"/>
-  <img src="https://img.shields.io/badge/Pandas_&_NumPy-blue?style=flat" height="40" title="Data Processing"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka" height="40" title="Apache Kafka"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>
 </p>
 
@@ -59,89 +60,56 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&style=flat" height="40" title="Kubernetes"/>
   <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&style=flat" height="40" title="MLflow"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&style=flat" height="40" title="GitHub Actions"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40" title="Terraform"/>
 </p>
 
 ---
 
-## ⭐ Top Projects (Feature Highlights)
+## ⭐ Top Featured Projects (Production-Ready)
 
-| Category | Project | Tech Stack | Key Metrics |
-|----------|---------|------------|-------------|
-| **Data Engineering** | [Azure Databricks Lakehouse Pipeline](https://github.com/Maha-Jr10/databricks-medallion-lakehouse) | Databricks, PySpark, Delta Lake, DLT | Medallion (3 layers), Snowflake Schema |
-| **Data Engineering** | [SNCF Railway Analytics](https://github.com/Maha-Jr10/sncf-railway-analytics) | Databricks, PySpark, Power BI, Star Schema | 10M+ reservations, 3m 39s pipeline, 6 dashboards |
-| **MLOps** | [MLflow Remote Tracking Server on AWS](http://ec2-16-16-201-85.eu-north-1.compute.amazonaws.com:5000) | AWS EC2, RDS, S3, PostgreSQL, Gunicorn | Live & Operational, team collaboration |
-| **Full-Stack + AI** | [TalentIA Platform](https://github.com/XAI-Tech/X-Talent) | Next.js 15, React 19, FastAPI, Ollama, Supabase | Role-based AI matching system |
-| **Medical AI** | [PneumoScanAI](https://github.com/Maha-Jr10/pneumonia-detection-website) | Flask, TensorFlow, ResNet50, Grad-CAM | Role-based users, appointments |
-| **Computer Vision** | [Potato Leaf Guardian](https://github.com/Maha-Jr10/potato-leaf-guardian) | TensorFlow, CNN, React, Docker | 92% accuracy, containerized |
-| **Kubernetes** | [MongoDB + Express K8s Stack](https://github.com/Maha-Jr10/kubernetes-mongo-express-stack) | Kubernetes, Docker, MongoDB, YAML | Production-ready deployment |
-| **Data Analytics** | [Road Accident Dashboard](https://github.com/Maha-Jr10/road-accident-dashboard) | Excel, KPIs, Data Analysis | 307K+ records, interactive |
-| **RAG/LLM** | [AI Portfolio RAG System](https://github.com/Maha-Jr10/portfolio-rag) | Llama3.2, RAG, Embeddings, Docker | Local LLM deployment |
-
----
-
-## 🌟 Featured High-Impact Projects
-
-### 🚆 Data Engineering & Business Intelligence
-- **SNCF Railway Analytics — Data Warehouse & BI:** End-to-end data pipeline processing 10M+ railway reservations (2021-2025). Implements Medallion Architecture (Bronze→Silver→Gold) on Databricks with PySpark, star schema modeling, and 6 interactive Power BI dashboards for revenue analysis, demand forecasting, and station performance.
-- **Azure Databricks End-to-End Lakehouse Pipeline:** Production-grade pipeline with streaming ingestion via Auto Loader, Delta Live Tables, SCD Type 1 & 2 dimensional modeling, and fully automated Workflow orchestration.
-- **Northwind Data Warehouse - Talend ETL:** Star schema + SCD Type 2 using Talend Open Studio for enterprise data warehousing.
-
-### 🏥 Medical & Agri-Tech (Computer Vision)
-- **Pneumonia Detection System (PneumoScanAI):** ResNet50 + Grad-CAM with role-based user system (patients/doctors/admins) for clinical X-ray analysis.
-- **Potato Leaf Guardian:** CNN model (92% accuracy) with React interface and Docker deployment for potato disease detection.
-
-### 🤖 Generative AI & Advanced ML
-- **Portfolio RAG System:** Local RAG using Llama3.2 with semantic search capabilities.
-- **TalentIA AI Platform:** Next.js 15 + FastAPI talent matching with local Ollama LLM integration.
-- **Artisanat Explorer:** Moroccan artisanal heritage platform with Flask, Chart.js, and RAG chatbot.
-- **Custom KNN From Scratch:** Interactive Streamlit app demonstrating algorithm fundamentals.
-
-### 📊 Predictive Analytics & Data Science
-- **Sales Prediction Engine:** Automated multi-model regression pipeline with hyperparameter tuning.
-- **UK Road Safety Dashboard:** Excel dashboard processing 307K+ collision records with interactive analytics.
-- **Customer Churn Prediction:** ANN model with 85% recall deployed via Streamlit.
-- **Bangalore Housing Price Estimator:** XGBoost regression model achieving R²=0.88 with Flask API deployment.
-
-### 🗄️ Infrastructure & MLOps
-- **MLflow Remote Tracking Server on AWS:** Production-ready MLflow tracking server (EC2+RDS+S3) for team collaboration.
-- **MongoDB & Mongo Express - Kubernetes Deployment:** Production-ready K8s deployment with persistent storage and secure configuration.
-
-### 🌐 Full-Stack Web Development
-- **GASAM Official Website:** React + TypeScript platform for Gambian Students' Association in Morocco.
-- **Multiple Production Applications:** Role-based systems with authentication, analytics, and admin dashboards.
+| Category | Project | Short Description | Key Metrics |
+|----------|---------|-------------------|--------------|
+| **Real-Time Streaming** | [Fraud Detection (Kafka + Spark)](https://github.com/Maha-Jr10/spark-streaming-fraud-detection) | Real‑time fraud detection pipeline with Kafka, Spark Structured Streaming, weighted Random Forest, Slack alerts, and Grafana dashboards. | Recall 0.80 • Precision 0.84 • Latency <2 sec |
+| **Data Engineering** | [Azure Databricks Lakehouse Pipeline](https://github.com/Maha-Jr10/databricks-medallion-lakehouse) | Production Medallion architecture (Bronze→Silver→Gold) with Auto Loader, Delta Live Tables, SCD Type 1/2, and automated Workflows. | Medallion (3 layers) • Snowflake Schema • Fully automated |
+| **Data Engineering** | [SNCF Railway Analytics](https://github.com/Maha-Jr10/sncf-railway-analytics) | End‑to‑end pipeline for 10M+ railway reservations with star schema and 6 interactive Power BI dashboards. | 10M+ reservations • 3m 39s pipeline • 6 dashboards |
+| **MLOps** | [MLflow Remote Tracking Server on AWS](https://github.com/Maha-Jr10/mlops-mlflow-aws) | Production MLflow tracking server on AWS (EC2+RDS+S3) for team experiment tracking and model registry. | Live & operational • PostgreSQL backend • S3 artifacts |
+| **Full-Stack AI** | [TalentIA Platform](https://github.com/XAI-Tech/X-Talent) | Role‑based AI talent matching platform (Next.js 15, FastAPI, local Ollama LLM) with admin analytics. | Role‑based access • AI resume parsing • Admin dashboard |
+| **Medical AI** | [PneumoScanAI](https://github.com/Maha-Jr10/pneumonia-detection-website) | Chest X‑ray pneumonia detection using ResNet50 + Grad‑CAM explainability, with patient/doctor/admin roles. | ResNet50 • Grad‑CAM • Role‑based users + appointments |
+| **Computer Vision** | [Potato Leaf Guardian](https://github.com/Maha-Jr10/potato-leaf-guardian) | CNN model (92% accuracy) for Early/Late Blight detection, with React frontend and Docker deployment. | 92% accuracy • 15k+ images • Containerized |
+| **RAG/LLM** | [AI Portfolio RAG System](https://github.com/Maha-Jr10/portfolio-rag) | Local RAG chatbot using Llama3.2, LangChain, and ChromaDB for interactive portfolio Q&A. | Local Llama3.2 • Semantic search • Docker |
+| **Graph Analytics** | [Spark Graph Analytics (GraphX/GraphFrames)](https://github.com/Maha-Jr10/spark-graph-analytics) | Graph algorithms on large‑scale networks: PageRank, SCC, BFS, triangle counting, and weighted Dijkstra. | 1,435+ vertices • 616k+ edges • 10+ algorithms |
+| **Data Analytics** | [Road Accident Dashboard (Excel)](https://github.com/Maha-Jr10/road-accident-dashboard) | Interactive Excel dashboard processing 307K+ UK collision records with KPIs, trend analysis, and dynamic charts. | 307K+ records • KPIs • Interactive charts |
 
 ---
 
 ## 💼 Professional Experience
 
-### 🤖 Machine Learning Intern @ XAI (Aug 2025 - Oct 2025)
-- Built TalentIA - AI-powered talent matching platform with role-based access
-- Developed Next.js 15 + React 19 platform with comprehensive admin analytics
-- Created AI microservice using FastAPI and local Ollama for resume parsing
+### 🤖 Machine Learning Intern @ XAI (Aug 2025 – Oct 2025)
+- Built **TalentIA** – AI-powered talent matching platform (Next.js 15 + FastAPI + Ollama)
+- Implemented role‑based access (super_admin, admin, user) and advanced analytics dashboard
+- Deployed AI microservice for resume parsing with local LLM
 
-### 📊 Data Science Intern @ ENSAF (Jul 2025 - Aug 2025)
-- Led team building Artisanat Explorer - comprehensive web application for Moroccan heritage
-- Implemented local RAG system using Ollama embeddings + LLM with ChromaDB
-- Developed interactive analytics dashboard with Chart.js and clickable filtering
+### 📊 Data Science Intern @ ENSAF (Jul 2025 – Aug 2025)
+- Led development of **Artisanat Explorer** – Moroccan heritage web app
+- Built local RAG system with Ollama embeddings + ChromaDB
+- Created interactive analytics dashboard (Chart.js) with top‑3 recommendations
 
-### 🎓 Independent AI/ML Projects (2023 - Present)
-- Developed 15+ production-grade projects across AI, Data Engineering, and Full-Stack domains
-- Built systems from CNN models to Kubernetes deployments with end-to-end pipelines
-- Created educational content and technical guides for community learning
+### 🧠 Independent AI/ML Projects (2023 – Present)
+- **15+ production-grade projects** across Data Engineering, MLOps, LLMs, Computer Vision, and Full‑Stack
+- End‑to‑end pipelines from data ingestion to deployment (Docker, K8s, AWS)
 
-### 👥 Leadership Roles
-- **Secretary General**, GASAM (2024 - 2025): Advocated for 100+ students, organized cultural/academic events
-- **AIESEC Member** (2025 - 2026): Participated in leadership development and community service
+### 👥 Leadership
+- **Secretary General, GASAM** (2024–2025): Advocated for 100+ students, organised cultural/academic events – received *Exemplary Leadership Award*
+- **AIESEC Member** (2025–2026): Leadership development & community service
 
 ---
 
 ## 📊 GitHub Stats & Certifications
 
 ### 🏆 Certifications (22+)
-- **AI & Machine Learning:** TensorFlow, Deep Learning, Computer Vision, Generative AI
+- **AI/ML:** TensorFlow, Deep Learning, Computer Vision, Generative AI (DataCamp, Kaggle, Cisco)
 - **Data Engineering:** Apache Kafka, Data Cleaning, Feature Engineering, Pandas, Databricks
-- **Programming:** Python, SQL, JavaScript, Problem Solving
+- **Programming:** Python, SQL (Advanced), JavaScript, Problem Solving
 - **Web Development:** React, TypeScript, Responsive Web Design
 
 ### 📈 GitHub Activity
@@ -157,20 +125,21 @@
 ---
 
 ## 📫 Let's Connect!
+
 - **Portfolio:** [muhammed-john.netlify.app](https://muhammed-john.netlify.app)
 - **LinkedIn:** [linkedin.com/in/Maha-Jr](https://www.linkedin.com/in/Maha-Jr)
 - **GitHub:** [github.com/Maha-Jr10](https://github.com/Maha-Jr10)
 - **Email:** muhammedjohn3@gmail.com
-- **Location:** Fes, Morocco (Open to remote/onsite opportunities)
+- **Location:** Fes, Morocco (Open to remote/onsite/hybrid)
 
 ---
 
 <p align="center">
-  <a href="https://muhammed-john.netlify.app"><strong>🎯 Visit My Portfolio Website</strong></a> •
-  <a href="https://github.com/Maha-Jr10?tab=repositories"><strong>🚀 Explore My Projects</strong></a> •
+  <a href="https://muhammed-john.netlify.app"><strong>🎯 Visit My Portfolio</strong></a> •
+  <a href="https://github.com/Maha-Jr10?tab=repositories"><strong>🚀 All Projects</strong></a> •
   <a href="mailto:muhammedjohn3@gmail.com"><strong>📧 Contact Me</strong></a>
 </p>
 
 <p align="center">
-  <i>Bridging AI, Data Engineering, and Full-Stack Development to build production-ready solutions</i>
+  <i>Bridging AI, Data Engineering, and Full-Stack Development – building production‑ready solutions.</i>
 </p>
