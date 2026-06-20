@@ -1,145 +1,95 @@
-<h1 align="center">👋 Hi, I’m <span style="color:#4CAF50;">Muhammed John</span></h1>
-<p align="center">
-  <em>MSc Student in Data Science & AI Engineering @ ENSAF</em><br/>
-  <strong>AI/ML Engineer | Data Scientist | Data Engineer | Full-Stack Developer | MLOps Practitioner</strong>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.hackerrank.com/profile/Muhammedjohn3"><img src="https://img.shields.io/badge/HackerRank-Muhammedjohn3-2EC866?logo=hackerrank&style=for-the-badge" alt="HackerRank"></a>
-  <a href="https://www.linkedin.com/in/Maha-Jr"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge" alt="LinkedIn"></a>
-  <a href="https://www.kaggle.com/muhammedjohn"><img src="https://img.shields.io/badge/Kaggle-%23020BEF.svg?logo=kaggle&style=for-the-badge" alt="Kaggle"></a>
-  <a href="https://github.com/Maha-Jr10"><img src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&style=for-the-badge" alt="GitHub"></a>
-  <a href="mailto:muhammedjohn3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&style=for-the-badge" alt="Email"></a>
-  <a href="https://muhammed-john.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?logo=netlify&style=for-the-badge" alt="Portfolio"></a>
-</p>
+# Muhammed John
 
----
+**Co-Founder @ Smartara · AI & Data Engineer**
 
-## 🚀 About Me
-- 🎓 **MSc Student in Data Science & AI Engineering** at ENSAF (2025-Present)
-- 🏗️ Build **end-to-end production systems** – from Lakehouse pipelines (Databricks, Kafka) to LLM‑powered apps and MLOps on AWS
-- 🔄 **Continuously learning** – recently: Databricks Workflows, Delta Live Tables, Spark Structured Streaming, Kubernetes
-- 🤝 **Open to roles** in Data Engineering, ML Engineering, AI Engineering, Data Science, and Full‑Stack AI
-- 🌍 Based in Fes, Morocco – available for remote, hybrid, or on‑site in Europe/Morocco
+*MSc Data Science & AI Engineering — ENSAF, Morocco*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE)
+[![Smartara](https://img.shields.io/badge/Smartara-10b981?style=for-the-badge&logo=rocket&logoColor=white)](https://www.smartara.co)
+[![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammedjohn3@gmail.com)
+
+</div>
 
 ---
 
-## 🛠️ Technical Stack & Expertise
+### About Me
 
-### 🤖 AI & Machine Learning
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" title="TensorFlow/Keras"/>
-  <img src="https://img.shields.io/badge/XAI-Grad--CAM-orange?style=flat" height="40" title="Grad-CAM"/>
-  <img src="https://img.shields.io/badge/LLM-RAG_&_LangChain-blue?style=flat" height="40" title="RAG & LangChain"/>
-  <img src="https://img.shields.io/badge/LLMs-Llama_3.2_&_Ollama-green?style=flat" height="40" title="LLM Integration"/>
-  <img src="https://img.shields.io/badge/ML-Scikit--learn_&_XGBoost-yellow?style=flat" height="40" title="Machine Learning"/>
-</p>
+I co-founded **[Smartara](https://www.smartara.co)** — an AI & data agency building intelligent services and products that help businesses automate operations, engineer reliable data infrastructure, and extract real value from their data.
 
-### 🗄️ Data Engineering & Big Data
-<p align="center">
-  <img src="https://img.shields.io/badge/Apache-Airflow-red?style=flat" height="40" title="Apache Airflow"/>
-  <img src="https://img.shields.io/badge/Apache-Spark-orange?style=flat" height="40" title="Apache Spark"/>
-  <img src="https://img.shields.io/badge/Databricks-ff3621?style=flat&logo=databricks" height="40" title="Databricks"/>
-  <img src="https://img.shields.io/badge/Delta_Lake-0A5B82?style=flat" height="40" title="Delta Lake"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka" height="40" title="Apache Kafka"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>
-</p>
+I build production-ready AI systems and data pipelines end-to-end — from real-time streaming to LLM-powered agents to full lakehouse architectures.
 
-### 🖥️ Full-Stack Development
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" title="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" title="FastAPI"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40" title="Flask"/>
-</p>
-
-### ☁️ DevOps & MLOps
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&style=flat" height="40" title="Kubernetes"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&style=flat" height="40" title="MLflow"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&style=flat" height="40" title="GitHub Actions"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40" title="Terraform"/>
-</p>
+- Building AI & data products at **Smartara**
+- MSc Data Science & AI Engineering at **ENSAF, Morocco**
+- Based in **Morocco** · Originally from **The Gambia**
+- Fluent in **English** and **French**
+- Open to **AI/ML · Data Engineering · Data Science** opportunities
 
 ---
 
-## ⭐ Top Featured Projects (Production-Ready)
+### Tech Stack
 
-| Category | Project | Short Description | Key Metrics |
-|----------|---------|-------------------|--------------|
-| **Real-Time Streaming** | [Fraud Detection (Kafka + Spark)](https://github.com/Maha-Jr10/spark-streaming-fraud-detection) | Real‑time fraud detection pipeline with Kafka, Spark Structured Streaming, weighted Random Forest, Slack alerts, and Grafana dashboards. | Recall 0.80 • Precision 0.84 • Latency <2 sec |
-| **Data Engineering** | [Azure Databricks Lakehouse Pipeline](https://github.com/Maha-Jr10/databricks-medallion-lakehouse) | Production Medallion architecture (Bronze→Silver→Gold) with Auto Loader, Delta Live Tables, SCD Type 1/2, and automated Workflows. | Medallion (3 layers) • Snowflake Schema • Fully automated |
-| **Data Engineering** | [SNCF Railway Analytics](https://github.com/Maha-Jr10/sncf-railway-analytics) | End‑to‑end pipeline for 10M+ railway reservations with star schema and 6 interactive Power BI dashboards. | 10M+ reservations • 3m 39s pipeline • 6 dashboards |
-| **MLOps** | [MLflow Remote Tracking Server on AWS](https://github.com/Maha-Jr10/mlops-mlflow-aws) | Production MLflow tracking server on AWS (EC2+RDS+S3) for team experiment tracking and model registry. | Live & operational • PostgreSQL backend • S3 artifacts |
-| **Full-Stack AI** | [TalentIA Platform](https://github.com/XAI-Tech/X-Talent) | Role‑based AI talent matching platform (Next.js 15, FastAPI, local Ollama LLM) with admin analytics. | Role‑based access • AI resume parsing • Admin dashboard |
-| **Medical AI** | [PneumoScanAI](https://github.com/Maha-Jr10/pneumonia-detection-website) | Chest X‑ray pneumonia detection using ResNet50 + Grad‑CAM explainability, with patient/doctor/admin roles. | ResNet50 • Grad‑CAM • Role‑based users + appointments |
-| **Computer Vision** | [Potato Leaf Guardian](https://github.com/Maha-Jr10/potato-leaf-guardian) | CNN model (92% accuracy) for Early/Late Blight detection, with React frontend and Docker deployment. | 92% accuracy • 15k+ images • Containerized |
-| **RAG/LLM** | [AI Portfolio RAG System](https://github.com/Maha-Jr10/portfolio-rag) | Local RAG chatbot using Llama3.2, LangChain, and ChromaDB for interactive portfolio Q&A. | Local Llama3.2 • Semantic search • Docker |
-| **Graph Analytics** | [Spark Graph Analytics (GraphX/GraphFrames)](https://github.com/Maha-Jr10/spark-graph-analytics) | Graph algorithms on large‑scale networks: PageRank, SCC, BFS, triangle counting, and weighted Dijkstra. | 1,435+ vertices • 616k+ edges • 10+ algorithms |
-| **Data Analytics** | [Road Accident Dashboard (Excel)](https://github.com/Maha-Jr10/road-accident-dashboard) | Interactive Excel dashboard processing 307K+ UK collision records with KPIs, trend analysis, and dynamic charts. | 307K+ records • KPIs • Interactive charts |
+**AI & Machine Learning**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
-## 💼 Professional Experience
+**Data Engineering**
 
-### 🤖 Machine Learning Intern @ XAI (Aug 2025 – Oct 2025)
-- Built **TalentIA** – AI-powered talent matching platform (Next.js 15 + FastAPI + Ollama)
-- Implemented role‑based access (super_admin, admin, user) and advanced analytics dashboard
-- Deployed AI microservice for resume parsing with local LLM
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
 
-### 📊 Data Science Intern @ ENSAF (Jul 2025 – Aug 2025)
-- Led development of **Artisanat Explorer** – Moroccan heritage web app
-- Built local RAG system with Ollama embeddings + ChromaDB
-- Created interactive analytics dashboard (Chart.js) with top‑3 recommendations
+**Cloud & DevOps**
 
-### 🧠 Independent AI/ML Projects (2023 – Present)
-- **15+ production-grade projects** across Data Engineering, MLOps, LLMs, Computer Vision, and Full‑Stack
-- End‑to‑end pipelines from data ingestion to deployment (Docker, K8s, AWS)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
-### 👥 Leadership
-- **Secretary General, GASAM** (2024–2025): Advocated for 100+ students, organised cultural/academic events – received *Exemplary Leadership Award*
-- **AIESEC Member** (2025–2026): Leadership development & community service
+**Full-Stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats & Certifications
+### GitHub Stats
 
-### 🏆 Certifications (22+)
-- **AI/ML:** TensorFlow, Deep Learning, Computer Vision, Generative AI (DataCamp, Kaggle, Cisco)
-- **Data Engineering:** Apache Kafka, Data Cleaning, Feature Engineering, Pandas, Databricks
-- **Programming:** Python, SQL (Advanced), JavaScript, Problem Solving
-- **Web Development:** React, TypeScript, Responsive Web Design
+<div align="center">
 
-### 📈 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maha-jr10&show_icons=true&layout=compact&theme=radical&hide=html,css" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=maha-jr10&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
-</p>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Maha-Jr10&show_icons=true&theme=default&hide_border=true&title_color=0ea5e9&icon_color=14b8a6&text_color=374151&bg_color=ffffff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maha-Jr10&layout=compact&hide_border=true&title_color=0ea5e9&text_color=374151&bg_color=ffffff&langs_count=8" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maha-jr10&theme=radical" alt="GitHub Streak"/>
-</p>
+</div>
 
 ---
 
-## 📫 Let's Connect!
+### Featured Projects
 
-- **Portfolio:** [muhammed-john.netlify.app](https://muhammed-john.netlify.app)
-- **LinkedIn:** [linkedin.com/in/Maha-Jr](https://www.linkedin.com/in/Maha-Jr)
-- **GitHub:** [github.com/Maha-Jr10](https://github.com/Maha-Jr10)
-- **Email:** muhammedjohn3@gmail.com
-- **Location:** Fes, Morocco (Open to remote/onsite/hybrid)
+| Project | Description | Stack |
+|---|---|---|
+| **[Sales Intelligence Agent](https://github.com/Maha-Jr10)** | AI agent that monitors companies daily and alerts sales teams to buying signals | Python · LLMs · n8n · CRM APIs |
+| **[Real-Time Fraud Detection](https://github.com/Maha-Jr10)** | Catches fraudulent transactions in <2 sec with 80% detection rate | Kafka · Spark · ML · Python |
+| **[AI Content Factory](https://github.com/Maha-Jr10)** | Turns a YouTube video into 30 days of scheduled posts across 5 platforms | LLMs · n8n · Multi-agent |
+| **[Azure Databricks Lakehouse](https://github.com/Maha-Jr10)** | End-to-end lakehouse pipeline with Delta Lake and automated quality checks | Databricks · Delta Lake · dbt |
+| **[TalentIA — AI Hiring Platform](https://github.com/Maha-Jr10)** | AI-powered CV scoring that cuts recruiter screening time by 90% | Next.js · FastAPI · Ollama |
+| **[MediCore — AI Symptom Checker](https://github.com/Maha-Jr10)** | Classifies 24 diseases from symptoms in <1 second with 94.5% accuracy | TensorFlow · Scikit-learn · FastAPI |
 
 ---
 
-<p align="center">
-  <a href="https://muhammed-john.netlify.app"><strong>🎯 Visit My Portfolio</strong></a> •
-  <a href="https://github.com/Maha-Jr10?tab=repositories"><strong>🚀 All Projects</strong></a> •
-  <a href="mailto:muhammedjohn3@gmail.com"><strong>📧 Contact Me</strong></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Bridging AI, Data Engineering, and Full-Stack Development – building production‑ready solutions.</i>
-</p>
+*Open to AI/ML · Data Engineering · Data Science roles and collaborations*
+
+</div>
