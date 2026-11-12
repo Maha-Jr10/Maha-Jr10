@@ -17,7 +17,7 @@
 
 ### About Me
 
-I co-founded **[Smartara](https://www.smartara.co)** — an AI & data agency building intelligent services and products that help businesses automate operations, engineer reliable data infrastructure, and extract real value from their data.
+I co-founded **[Smartara](https://www.smartara.co)** — an AI, Data & Software agency building intelligent services and products that help businesses automate operations, engineer reliable data infrastructure, and extract real value from their data.
 
 I build production-ready AI systems and data pipelines end-to-end — from real-time streaming to LLM-powered agents to full lakehouse architectures.
 
